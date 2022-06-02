@@ -1,0 +1,10 @@
+ol {
+	counter-reset: list;
+  }
+li {
+	counter-increment: list;
+}
+li::marker {
+	content: counters(list, '.') '. ';
+}
+  
