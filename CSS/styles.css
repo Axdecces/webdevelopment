@@ -31,8 +31,8 @@ li::marker {
 .toc {
 	width: fit-content;
 	padding: 15px;
-	border: 1px solid #a2a9b1;
-	background-color: #f8f9fa;
+	border: 1px solid hsl(0, 75%, 50%);
+	background-color: hsl(0, 75%, 80%);
 	font-size: 95%;
 }
 
