@@ -15,3 +15,4 @@ Try to implement the following things:
 - Center the text and make it not take up the whole width of the page.
 - Add a hyperlink to a different page.
 - Try to embed a video into your page.
+- (Create a subpage)
